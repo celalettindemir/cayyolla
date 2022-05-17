@@ -1,0 +1,6 @@
+[submodule "cayyolla-mobile"]
+	path = cayyolla-mobile
+	url = https://github.com/celalettindemir/cayyolla-mobile.git
+[submodule "cayyolla-api"]
+	path = cayyolla-api
+	url = https://github.com/celalettindemir/cayyolla-api.git
